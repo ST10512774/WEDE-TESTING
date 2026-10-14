@@ -39,7 +39,7 @@ nav ul li a {
 
 
 body {
-    background-color: royalblue
+    background-color: royalblue;
     margin: 0;
 }
 
@@ -60,6 +60,7 @@ body {
 }
 summary-text p {
     font-size: 40px;
+}
 
 #hero-content .call-to-action-btn a {
     text-decoration: none;
